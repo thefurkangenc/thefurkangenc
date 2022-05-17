@@ -1,5 +1,5 @@
 👋 Hi, I’m Furkan <br/>
-🧑‍💻 <h1 style="background-color:red;">I am developing web with php and javascript 	</br>	</h1>	
+🧑‍💻 <h1 style='background-color:red!important;'>I am developing web with php and javascript 	</br>	</h1>	
 🌱 I’m currently learning Laravel
 🪞 I am focused on constantly improving myself.
 📫 Reach me at *27furkangenc@gmail*
